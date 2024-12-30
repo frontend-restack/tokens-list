@@ -1,0 +1,703 @@
+{
+ "result": [
+  {
+   "name": "USD Coin (PoS)",
+   "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+   "symbol": "USDC.e",
+   "decimals": 6,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/usdc.svg",
+   "coingeckoId": "usd-coin",
+   "commonKey": "polygon-uusdc"
+  },
+  {
+   "chainId": 137,
+   "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+   "name": "MATIC",
+   "symbol": "MATIC",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/main/public/images/chains/polygon.svg",
+   "coingeckoId": "matic-network",
+   "commonKey": "wmatic-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+   "name": "USD Coin",
+   "symbol": "USDC",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/usdc.svg",
+   "coingeckoId": "usd-coin"
+  },
+  {
+   "chainId": 137,
+   "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+   "name": "Wrapped MATIC",
+   "symbol": "WMATIC",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png?1628852392",
+   "coingeckoId": "matic-network",
+   "commonKey": "wmatic-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+   "name": "axlUSDC",
+   "symbol": "axlUSDC",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/usdc.svg",
+   "coingeckoId": "axlusdc",
+   "commonKey": "uusdc"
+  },
+  {
+   "name": "Tether USD",
+   "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+   "symbol": "USDT",
+   "decimals": 6,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/usdt.svg",
+   "coingeckoId": "tether"
+  },
+  {
+   "name": "Wrapped Ether",
+   "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+   "symbol": "WETH",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/weth.svg",
+   "coingeckoId": "weth"
+  },
+  {
+   "name": "Dai Stablecoin",
+   "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+   "symbol": "DAI",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+   "coingeckoId": "dai"
+  },
+  {
+   "name": "Wrapped BTC (PoS)",
+   "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+   "symbol": "WBTC",
+   "decimals": 8,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
+   "coingeckoId": "wrapped-bitcoin"
+  },
+  {
+   "name": "Uniswap (PoS)",
+   "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+   "symbol": "Uniswap (PoS)",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/uni.svg",
+   "coingeckoId": "uniswap"
+  },
+  {
+   "name": "miMATIC Stablecoin",
+   "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+   "symbol": "MAI",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+   "coingeckoId": "mimatic"
+  },
+  {
+   "name": "decentral.games",
+   "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+   "symbol": "DG",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://polygonscan.com/token/images/decentralgame_32.png?v=5",
+   "coingeckoId": "decentral-games"
+  },
+  {
+   "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/knc.svg",
+   "name": "Kyber Network Crystal",
+   "symbol": "KNC",
+   "coingeckoId": "kyber-network-crystal"
+  },
+  {
+   "address": "0x46371C90fcCE4D7367a61CB43eA7922406bC707a",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/knc.svg",
+   "name": "Axelar Wrapped KNC",
+   "symbol": "axlKNC",
+   "coingeckoId": "kyber-network-crystal",
+   "commonKey": "knc-wei",
+   "bridgeOnly": true
+  },
+  {
+   "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+   "name": "Aave (PoS)",
+   "symbol": "AAVE",
+   "coingeckoId": "aave",
+   "bridgeOnly": false
+  },
+  {
+   "name": "PlanetIX",
+   "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+   "symbol": "IXT",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555",
+   "coingeckoId": "insurex"
+  },
+  {
+   "name": "Lucidao",
+   "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+   "symbol": "LCD",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706",
+   "coingeckoId": "lucidao"
+  },
+  {
+   "name": "MASQ",
+   "address": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
+   "symbol": "MASQ",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/13699/small/MASQ_Logo_Blue_Solo_Transparent.png?1616661801",
+   "coingeckoId": "masq"
+  },
+  {
+   "name": "Liquid Staking Matic",
+   "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+   "symbol": "MaticX",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg",
+   "coingeckoId": "stader-maticx"
+  },
+  {
+   "name": "MCHCoin",
+   "address": "0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9",
+   "symbol": "MCHC",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/15399/small/MCHC.jpg?1620721307",
+   "coingeckoId": "mch-coin"
+  },
+  {
+   "name": "Ocean Token (PoS)",
+   "address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+   "symbol": "mOCEAN",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png",
+   "coingeckoId": "ocean-protocol"
+  },
+  {
+   "name": "Nitro (POS)",
+   "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+   "symbol": "NITRO",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/21668/small/_X6vYBDM_400x400.jpg?1639705848",
+   "coingeckoId": "nitro-league"
+  },
+  {
+   "name": "Qi Dao",
+   "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+   "symbol": "QI",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/qi.png",
+   "coingeckoId": "benqi"
+  },
+  {
+   "name": "QuickSwap(NEW)",
+   "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+   "symbol": "QUICK(NEW)",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png",
+   "coingeckoId": "quickswap"
+  },
+  {
+   "name": "QuickSwap(OLD)",
+   "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+   "symbol": "QUICK(OLD)",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png",
+   "coingeckoId": "quick"
+  },
+  {
+   "name": "SAND",
+   "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+   "symbol": "SAND",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942",
+   "coingeckoId": "the-sandbox"
+  },
+  {
+   "name": "Decentraland",
+   "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+   "symbol": "MANA",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745",
+   "coingeckoId": "decentraland"
+  },
+  {
+   "name": "Toucan Protocol: Base Carbon Tonne",
+   "address": "0x2F800Db0fdb5223b3C3f354886d907A671414A7F",
+   "symbol": "BCT",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12949.png",
+   "coingeckoId": "toucan-protocol-base-carbon-tonne"
+  },
+  {
+   "name": "Sunflower Land",
+   "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+   "symbol": "SFL",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203",
+   "coingeckoId": "sunflower-land"
+  },
+  {
+   "name": "Staked MATIC (PoS) | Lido",
+   "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+   "symbol": "stMATIC",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287",
+   "coingeckoId": "lido-staked-matic"
+  },
+  {
+   "name": "Telcoin",
+   "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+   "symbol": "TEL",
+   "decimals": 2,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/1899/small/tel.png?1547036203",
+   "coingeckoId": "telcoin"
+  },
+  {
+   "name": "VOXEL Token",
+   "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+   "symbol": "VOXEL",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/21260/small/voxies.png?1638789903",
+   "coingeckoId": "voxies"
+  },
+  {
+   "name": "Exchange Genesis Ethlas Medium",
+   "address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
+   "symbol": "XGEM",
+   "decimals": 18,
+   "chainId": 137,
+   "logoURI": "https://assets.coingecko.com/coins/images/22535/small/17200.png?1642023748",
+   "coingeckoId": "exchange-genesis-ethlas-medium"
+  },
+  {
+   "address": "0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23/logo.png",
+   "name": "Raider Aurum",
+   "symbol": "AURUM",
+   "coingeckoId": "raider-aurum"
+  },
+  {
+   "address": "0xE440dc07b23faafF3a76bdbcf783221406eb00F1",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://docs.axelar.dev/images/assets/wfil.svg",
+   "name": "Axelar FIL",
+   "symbol": "axlFIL",
+   "coingeckoId": "filecoin",
+   "bridgeOnly": true,
+   "commonKey": "wfil-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0xCeED2671d8634e3ee65000EDbbEe66139b132fBf",
+   "name": "Axelar USDT",
+   "symbol": "axlUSDT",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/usdt.svg",
+   "coingeckoId": "tether",
+   "commonKey": "uusdt",
+   "bridgeOnly": true
+  },
+  {
+   "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png",
+   "name": "Aavegotchi GHST Token",
+   "symbol": "GHST",
+   "coingeckoId": "aavegotchi"
+  },
+  {
+   "address": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3/logo.png",
+   "name": "Crypto Raider",
+   "symbol": "RAIDER",
+   "coingeckoId": "crypto-raiders"
+  },
+  {
+   "name": "anyBNB",
+   "symbol": "BNB",
+   "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WBNB.svg",
+   "coingeckoId": "binancecoin"
+  },
+  {
+   "chainId": 137,
+   "address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
+   "name": "ApeBond",
+   "symbol": "ABOND",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/abond.svg",
+   "coingeckoId": ""
+  },
+  {
+   "name": "Banana Token",
+   "symbol": "BANANA",
+   "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
+   "coingeckoId": "apeswap-finance"
+  },
+  {
+   "name": "ChainLink",
+   "symbol": "LINK",
+   "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+   "coingeckoId": "chainlink"
+  },
+  {
+   "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/27713/small/Xen.jpeg?1665453190",
+   "name": "XEN Crypto",
+   "symbol": "mXEN",
+   "coingeckoId": "xen-crypto-bsc"
+  },
+  {
+   "address": "0xe261d618a959afffd53168cd07d12e37b26761db",
+   "chainId": 137,
+   "decimals": 18,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22837.png",
+   "name": "DIMO Price",
+   "symbol": "DIMO",
+   "coingeckoId": "dimo"
+  },
+  {
+   "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+   "chainId": 137,
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/axl.svg",
+   "name": "Axelar",
+   "symbol": "AXL",
+   "coingeckoId": "axelar",
+   "commonKey": "uaxl",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x08aD99fB3f9f262853B54613249B4064901BD358",
+   "name": "Mai Stablecoin",
+   "symbol": "axlWMAI",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+   "coingeckoId": "mimatic",
+   "commonKey": "wmai-wei",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0xC3a9a54c043f348027fffAac0F2F996123A19bF4",
+   "name": "Ethos Reserve Note",
+   "symbol": "ERN",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/ern.svg",
+   "coingeckoId": "ethos-reserve-note",
+   "commonKey": "ern-wei",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x0294D8eB7857D43FEb1210Db72456d41481f9Ede",
+   "name": "LiquidDriver",
+   "symbol": "axlLqdr",
+   "decimals": 18,
+   "commonKey": "lqdr-wei",
+   "logoURI": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+   "coingeckoId": "liquiddriver",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x7c603C3C0C97a565cf202c94AB5298bF8510f7dc",
+   "name": "Oath Token",
+   "symbol": "OATH",
+   "decimals": 18,
+   "commonKey": "oath-wei",
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18520.png",
+   "coingeckoId": "oath",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x281c4746c902A322B9A951F07893AC51a7221Acc",
+   "name": "Staked ERN Vault",
+   "symbol": "stERN",
+   "decimals": 18,
+   "commonKey": "stern-wei",
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24370.png",
+   "coingeckoId": "staked-ethos-reserve-note",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0xB0684AEb24b70A8973F2459DB4AB83a4be9139fB",
+   "name": "Gridex",
+   "symbol": "GDX",
+   "decimals": 18,
+   "commonKey": "gdx-wei",
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23941.png",
+   "coingeckoId": "gdx-token",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f",
+   "name": "TrustSwap Token",
+   "symbol": "SWAP",
+   "decimals": 18,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5829.png",
+   "coingeckoId": ""
+  },
+  {
+   "chainId": 137,
+   "address": "0xd7Bb095a60D7666D4A6f236423B47DDD6ae6Cfa7",
+   "name": "Axelar Wrapped wstETH",
+   "symbol": "axl-wstETH",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/wsteth.svg",
+   "coingeckoId": "wrapped-steth",
+   "commonKey": "wsteth-wei",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x12A80A285DfaBd23FC1DFe6c515F034A22d9cdCE",
+   "name": "Axelar Wrapped DEUS",
+   "symbol": "axlDEUS",
+   "decimals": 18,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12972.png",
+   "coingeckoId": "deus-finance-2",
+   "bridgeOnly": true,
+   "commonKey": "deus-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0x53Adc464b488bE8C5d7269B9ABBCe8bA74195C3a",
+   "name": "Axelar Wrapped FRAX",
+   "symbol": "axlFRAX",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/frax.svg",
+   "coingeckoId": "frax",
+   "commonKey": "frax-wei",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x162539172b53E9a93b7d98Fb6c41682De558a320",
+   "name": "Gone",
+   "symbol": "GONE",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/gone.png",
+   "coingeckoId": "gone"
+  },
+  {
+   "chainId": 137,
+   "address": "0x69deD9B7658507ca8C5A6f1F6ff53276802ec228",
+   "name": "Teritori",
+   "symbol": "TORI",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/tori.svg",
+   "coingeckoId": "teritori",
+   "commonKey": "utori",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+   "decimals": 18,
+   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28916.png",
+   "name": "Any Inu",
+   "symbol": "AI",
+   "coingeckoId": "any-inu"
+  },
+  {
+   "chainId": 137,
+   "address": "0xfecB6d3A5d3FdA8A37A072D5b9018709f690873b",
+   "name": "Chihuahua",
+   "symbol": "HUAHUA",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/huahua.svg",
+   "coingeckoId": "chihuahua-token",
+   "commonKey": "uhuahua",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x1ED2B2b097E92B2Fe95a172dd29840c71294F1d6",
+   "name": "Staked Frax",
+   "symbol": "sFRAX",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/sfrax.svg",
+   "coingeckoId": "",
+   "commonKey": "sfrax-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0x72eC87f05CC5eBC4D24Fddba84c179d5e216016B",
+   "name": "Frax Price Index",
+   "symbol": "FPI",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/fpi.svg",
+   "coingeckoId": "frax-price-index",
+   "bridgeOnly": true,
+   "commonKey": "fpi-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0x75b33EAA41DBc1Aae041d718AdfA4D446dD35ACC",
+   "name": "Frax Share",
+   "symbol": "FXS",
+   "decimals": 18,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/fxs.svg",
+   "coingeckoId": "frax-share",
+   "bridgeOnly": true,
+   "commonKey": "fxs-wei"
+  },
+  {
+   "chainId": 137,
+   "address": "0x2a75a19a162ef79ed97012e31d8f9c06d3bb4f92",
+   "name": "Poldo",
+   "symbol": "POLDO",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/34537/standard/Poldo.png?1705324970",
+   "coingeckoId": "poldo"
+  },
+  {
+   "chainId": 137,
+   "address": "0x91835b32f5249d863b63dA22e32E6200004Fe76a",
+   "name": "MilkyWay Staked TIA",
+   "symbol": "milkTIA",
+   "decimals": 6,
+   "logoURI": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+   "coingeckoId": "milkyway-staked-tia",
+   "bridgeOnly": true,
+   "commonKey": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA"
+  },
+  {
+   "chainId": 137,
+   "address": "0x7AEfff599570dEC2F3DbBc2ACe3cb1F8206749eB",
+   "name": "Moonflow",
+   "symbol": "MOON",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/34862/standard/coin_big_white_logo_%281%29.png?1706354814",
+   "coingeckoId": "moonflow"
+  },
+  {
+   "chainId": 137,
+   "address": "0xB87904DB461005FC716a6BF9F2d451c33b10b80b",
+   "name": "Alongside Crypto Market Index",
+   "symbol": "AMKT",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/28496/standard/22999.png?1696527488",
+   "coingeckoId": "alongside-crypto-market-index"
+  },
+  {
+   "chainId": 137,
+   "address": "0xc690C48E3a64d8b59E54aD4202DF3cb95a85dB79",
+   "name": "Persistence",
+   "symbol": "XPRT",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/xprt.svg",
+   "coingeckoId": "persistence",
+   "commonKey": "uxprt"
+  },
+  {
+   "chainId": 137,
+   "address": "0x422bAE7f5b67CA7FAde4577E965988130cAff672",
+   "name": "Axelar Wrapped Stargaze",
+   "symbol": "axlSTARS",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/stars.svg",
+   "coingeckoId": "stargaze",
+   "commonKey": "ustars",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x200C234721b5e549c3693CCc93cF191f90dC2aF9",
+   "name": "METAL",
+   "symbol": "METAL",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/24376/standard/metal.png",
+   "coingeckoId": "badmad-robots",
+   "commonKey": "metal-wei",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D",
+   "name": "MEE Governance Token",
+   "symbol": "MEE",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/27588/standard/MEE_200x200.png",
+   "coingeckoId": "medieval-empires",
+   "commonKey": "mee-wei",
+   "bridgeOnly": true
+  },
+  {
+   "chainId": 137,
+   "address": "0x86C74A05e735eB72f81e4bb415AaF0e3d0c1c413",
+   "name": "Bitsong",
+   "symbol": "BTSG",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/btsg.svg",
+   "coingeckoId": "bitsong",
+   "commonKey": "ubtsg"
+  },
+  {
+   "chainId": 137,
+   "address": "0xfA23FDB1648534797165fe52dc09e4e7e25C737a",
+   "name": "Saga",
+   "symbol": "axlSAGA",
+   "decimals": 6,
+   "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/saga.svg",
+   "coingeckoId": "saga",
+   "commonKey": "usaga"
+  }
+ ]
+}

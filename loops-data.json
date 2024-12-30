@@ -1,0 +1,52 @@
+[
+ {
+  "chainId": 1,
+  "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
+  "name": "Staked Aptos Coin",
+  "symbol": "stAPT",
+  "decimals": 8,
+  "bridge": null,
+  "panoraSymbol": "stAPT",
+  "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/stAptAmnis.png",
+  "websiteUrl": "https://stake.amnis.finance",
+  "category": "Native",
+  "isInPanoraTokenList": true,
+  "isBanned": false,
+  "panoraOrderIndex": 55,
+  "coingeckoId": "amnis-staked-aptos-coin",
+  "coinMarketCapId": null,
+  "show": false
+ },
+ {
+  "chainId": 1,
+  "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+  "name": "Amnis Aptos Coin",
+  "symbol": "amAPT",
+  "decimals": 8,
+  "bridge": null,
+  "panoraSymbol": "amAPT",
+  "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/amAPT.png",
+  "websiteUrl": "https://amnis.finance",
+  "category": "Native",
+  "isInPanoraTokenList": true,
+  "isBanned": false,
+  "panoraOrderIndex": 45,
+  "coingeckoId": "amnis-aptos",
+  "coinMarketCapId": 29034,
+  "show": false
+ },
+ {
+  "caution": false,
+  "chainId": 1,
+  "decimals": 8,
+  "logoUrl": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
+  "name": "Aptos Coin",
+  "order": 1,
+  "source": "aptos",
+  "symbol": "APT",
+  "type": "0x1::aptos_coin::AptosCoin",
+  "pythId": "0x03ae4db29ed4ae33d323568895aa00337e658e348b37509f5372ae51f0af00d5",
+  "symbol_with_bridge": "APT",
+  "show": true
+ }
+]

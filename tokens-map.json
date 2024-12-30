@@ -1,0 +1,79 @@
+[
+ {
+  "chain": "eth",
+  "chainName": "Ethereum",
+  "chainId": 1,
+  "chainType": "evm",
+  "tokenList": "eth-tokens.json",
+  "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+  "nativeTokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "nativeTokenCoingeckoId": "ethereum",
+  "nativeTokenSymbol": "ETH"
+ },
+ {
+  "chain": "bnb",
+  "chainName": "BSC",
+  "chainId": 56,
+  "chainType": "evm",
+  "tokenList": "bnb-tokens.json",
+  "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
+  "nativeTokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "nativeTokenCoingeckoId": "binancecoin",
+  "nativeTokenSymbol": "BNB"
+ },
+ {
+  "chain": "arb",
+  "chainName": "Arbitrum",
+  "chainId": 42161,
+  "chainType": "evm",
+  "tokenList": "arb-tokens.json",
+  "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/arb.svg",
+  "nativeTokenAddress": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+  "nativeTokenCoingeckoId": "ethereum",
+  "nativeTokenSymbol": "ETH"
+ },
+ {
+  "chain": "avalanche",
+  "chainName": "Avalanche",
+  "chainId": 43114,
+  "chainType": "evm",
+  "tokenList": "avalanche-tokens.json",
+  "logoURI": "https://raw.githubusercontent.com/0xsquid/assets/main/images/tokens/avax.svg",
+  "nativeTokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "nativeTokenCoingeckoId": "avalanche-2",
+  "nativeTokenSymbol": "AVAX"
+ },
+ {
+  "chain": "opt",
+  "chainName": "Optimism",
+  "chainId": 10,
+  "chainType": "evm",
+  "tokenList": "opt-tokens.json",
+  "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png",
+  "nativeTokenAddress": "0x4200000000000000000000000000000000000042",
+  "nativeTokenCoingeckoId": "ethereum",
+  "nativeTokenSymbol": "ETH"
+ },
+ {
+  "chain": "polygon",
+  "chainName": "Polygon",
+  "chainId": 137,
+  "chainType": "evm",
+  "tokenList": "polygon-tokens.json",
+  "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
+  "nativeTokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "nativeTokenCoingeckoId": "matic-network",
+  "nativeTokenSymbol": "MATIC"
+ },
+ {
+  "chain": "aptos",
+  "chainName": "Aptos",
+  "chainId": 108,
+  "chainType": "aptos",
+  "tokenList": "aptos-tokens.json",
+  "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apt.svg",
+  "nativeTokenAddress": "0x1::aptos_coin::AptosCoin",
+  "nativeTokenCoingeckoId": "aptos",
+  "nativeTokenSymbol": "APT"
+ }
+]

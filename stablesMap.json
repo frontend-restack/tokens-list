@@ -1,0 +1,50 @@
+[
+ {
+  "chain": 56,
+  "usdcEvmTokenAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "usdcAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+  "usdtEvmTokenAddress": "0x55d398326f99059fF775485246999027B3197955",
+  "usdtAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+  "wethEvmTokenAddress": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+ },
+ {
+  "chain": 42161,
+  "usdcEvmTokenAddress": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+  "usdcAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+  "usdtEvmTokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+  "usdtAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+  "wethEvmTokenAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+ },
+ {
+  "chain": 137,
+  "usdcEvmTokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  "usdcAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+  "usdtEvmTokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+  "usdtAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+  "wethEvmTokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+ },
+ {
+  "chain": 10,
+  "usdcEvmTokenAddress": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+  "usdcAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+  "usdtEvmTokenAddress": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+  "usdtAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+  "wethEvmTokenAddress": "0x4200000000000000000000000000000000000006"
+ },
+ {
+  "chain": 43114,
+  "usdcEvmTokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+  "usdcAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+  "usdtEvmTokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+  "usdtAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+  "wethEvmTokenAddress": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+ },
+ {
+  "chain": 1,
+  "usdcEvmTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "usdcAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+  "usdtEvmTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "usdtAptosTokenAddress": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+  "wethEvmTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+ }
+]
